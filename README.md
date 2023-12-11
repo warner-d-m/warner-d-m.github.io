@@ -14,6 +14,6 @@ My research found that when hearing short melodies (10s), we judge their enjoyab
 
 Adapting a generative adversarial network (akin to DALL·E or Midjourney) for royality sample generation for music production via 2D spectrograms generation; [Creative Computing final report.pdf](https://github.com/warner-d-m/warner-d-m.github.io/files/13631660/Creative.Computing.final.report.pdf)
 
-Implementing, training, and comparing two deep learning systems (AI) for audio, performing two tasks: separation and classification; [Report.pdf](https://github.com/warner-d-m/warner-d-m.github.io/files/13632241/Report.pdf)
+Implementing, training, and comparing two deep learning (AI) systems for audio, performing two tasks: separation and classification; [Report.pdf](https://github.com/warner-d-m/warner-d-m.github.io/files/13632241/Report.pdf)
 
 Sampling based looper digital instrument using Bela board; [Sampling based looper digital.pdf](https://github.com/warner-d-m/warner-d-m.github.io/files/13632289/Sampling.based.looper.digital.pdf)
