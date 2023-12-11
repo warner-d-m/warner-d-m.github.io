@@ -26,4 +26,4 @@ Sampling based looper digital instrument using Bela board; [Sampling based loope
 
 A song detection system (like to Shazam); [Song detection system.pdf](https://github.com/warner-d-m/warner-d-m.github.io/files/13632690/Song.detection.system.pdf)
 
-Anaylising data taken from the Hydrogen Epoch of Reionization Array (HERA) to determine if it suffers from "wedge leakage" (MSci project); [Does the Hydrogen Epoch of Reionization Array Suffer from Wedge Leakage(submission).pdf](https://github.com/warner-d-m/warner-d-m.github.io/files/13632749/Does.the.Hydrogen.Epoch.of.Reionization.Array.Suffer.from.Wedge.Leakage.submission.pdf)
+Analyzing data collected by the Hydrogen Epoch of Reionization Array (HERA) to determine the presence of "wedge leakage" (MSci project); [Does the Hydrogen Epoch of Reionization Array Suffer from Wedge Leakage(submission).pdf](https://github.com/warner-d-m/warner-d-m.github.io/files/13632749/Does.the.Hydrogen.Epoch.of.Reionization.Array.Suffer.from.Wedge.Leakage.submission.pdf)
