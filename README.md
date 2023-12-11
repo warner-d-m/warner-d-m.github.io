@@ -32,4 +32,6 @@ A song detection system (like to Shazam); [Song detection system.pdf](https://gi
 
 Analyzing data collected by the Hydrogen Epoch of Reionization Array (HERA) to determine the presence of "wedge leakage" (MSci project); [Does the Hydrogen Epoch of Reionization Array Suffer from Wedge Leakage(submission).pdf](https://github.com/warner-d-m/warner-d-m.github.io/files/13632749/Does.the.Hydrogen.Epoch.of.Reionization.Array.Suffer.from.Wedge.Leakage.submission.pdf)
 
-## My email; warner-d-m@hotmail.co.uk
+## Contact
+
+My email; warner-d-m@hotmail.co.uk
