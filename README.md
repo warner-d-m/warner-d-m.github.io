@@ -1,7 +1,8 @@
 # warner-d-m.github.io
 Tell us about you;
 
-My name is Matt Warner, I recently completed my master's in Sound and Music Computing at Queen Mary's University of London - achieving distinction (70%+). Previous to that I completed an MSci in Physics also at Queen Mary's.
+My name is Matt Warner, I recently completed my master's in Sound and Music Computing at Queen Mary's University of London (within the school of electrical enginnering & computer science) - achieving distinction (70%+). Previous to that I completed an MSci in Physics at the same university. During my free time I enjoy listening to and creating my own music in 
+Abeleton
 
 Talk about why you’d like to move into a career as a web developer;
 
