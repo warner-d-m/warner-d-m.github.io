@@ -22,6 +22,8 @@ Implementing, training, and comparing two deep learning (AI) systems for audio, 
 
 Sampling based looper digital instrument using Bela board; [Sampling based looper digital.pdf](https://github.com/warner-d-m/warner-d-m.github.io/files/13632289/Sampling.based.looper.digital.pdf)
 
+A song detection system (like to Shazam); [Song detection system.pdf](https://github.com/warner-d-m/warner-d-m.github.io/files/13632690/Song.detection.system.pdf)
+
 ## Interest in coding and web development
 
 I've always enjoyed coding and using it to solve problems. Web development is, of course, a rapidly growing industry with abundant job opportunities. Pursuing a career in web development not only makes practical sense but also enables me to continue my passion for coding, leveraging it to solve problems effectively.
