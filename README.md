@@ -8,7 +8,7 @@ My name is Matt Warner, I recently completed my Master's in Sound and Music Comp
 
 I've always enjoyed coding and using it to solve problems. Web development is, of course, a rapidly growing industry with abundant job opportunities. Pursuing a career in web development not only makes practical sense but also enables me to continue my passion for coding, leveraging it to solve problems effectively.
 
-## Master's dissertation
+## My Master's dissertation
 
 Titled 'The Determinant Interface Model for Music Cognition – Peeling Back the Cognitive Layers of Our Everyday Music Listening,' my project (where I achieved a mark of 80%) consisted of first hypothesizing my own cognitive model through reviewing the relevant literature (neurological, cognitive & behavioral studies), testing that model by using 25 self-gathered participants, and analyzing the self-collected data through code.
 
@@ -16,7 +16,7 @@ My research found that when hearing short melodies (10s), we judge their enjoyab
 
 ['The Determinant Interface Model for Music Cognition – Peeling Back the Cognitive Layers of Our Everyday Music Listening'.pdf](https://github.com/warner-d-m/warner-d-m.github.io/files/13631604/The.Determinant.Interface.Model.for.Music.Cognition.Peeling.Back.the.Cognitive.Layers.of.Our.Everyday.Music.Listening.pdf)
 
-## Other project examples
+## My other project examples
 
 Adapting a generative adversarial network (akin to DALL·E or Midjourney) for royality sample generation for music production via 2D spectrograms generation; [Creative Computing final report.pdf](https://github.com/warner-d-m/warner-d-m.github.io/files/13631660/Creative.Computing.final.report.pdf)
 
