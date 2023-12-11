@@ -1,3 +1,5 @@
+My email; warner-d-m@hotmail.co.uk
+
 ## Founders and Coders application links
 
 githublink; https://github.com/warner-d-m/warner-d-m.github.io/edit/main/README.md
@@ -5,8 +7,6 @@ githublink; https://github.com/warner-d-m/warner-d-m.github.io/edit/main/README.
 .io link; warner-d-m.github.io
 
 game; https://github.com/warner-d-m/worm_game
-
-My email; warner-d-m@hotmail.co.uk
 
 ## About me & why web development
 
