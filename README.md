@@ -8,6 +8,12 @@ Titled 'The Determinant Interface Model for Music Cognition – Peeling Back the
 
 My research found that when hearing short melodies (10s) we judge our enjoyabilty purely based on how much "musical sense" it makes to our ear. However, by the use of different timbral sounds (like switching instruements or changing how the instruements sound "texturally") it allows for the listener to enjoy otherwise more complex, dissant sounding melodies. On top of this, the leading factor for music enjoyabilty was artist recongition over the actual musical piece it self i.e., it was found partispants based song enjoyability more so on the msucial artist themselves rather than the actual music, by quite a significant margin. 
 
+*link
+
+## Other projects
+
+*links
+
 Talk about why you’d like to move into a career as a web developer;
 
 
