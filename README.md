@@ -1,4 +1,4 @@
-## Relevant links and info
+## Relevant links and contact info
 
 githublink; https://github.com/warner-d-m/warner-d-m.github.io/edit/main/README.md
 
