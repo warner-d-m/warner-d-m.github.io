@@ -24,4 +24,4 @@ Sampling based looper digital instrument using Bela board; [Sampling based loope
 
 ## Interest in coding and web development
 
-I've alway's enjoyed coding and using code to solve problems.
+I've always enjoyed coding and using it to solve problems. Web development is, of course, a rapidly growing industry with abundant job opportunities. Pursuing a career in web development not only makes practical sense but also enables me to continue my passion for coding, leveraging it to solve problems effectively.
