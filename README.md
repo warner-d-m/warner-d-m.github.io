@@ -6,7 +6,7 @@ My name is Matt Warner, I recently completed my Master's in Sound and Music Comp
 
 Titled 'The Determinant Interface Model for Music Cognition – Peeling Back the Cognitive Layers of Our Everyday Music Listening', my projected consisted of first hypothesising my own cognitive model through review reading the relvant literature (neurological, cognitive & behavioural studies), testing that model by use of 25 self gathered partispanets, and anaylsing the self collected data through code.
 
-The finding's from my project suggest that A) timbral sounds/selection ("… attribute of auditory sensation whereby a listener can judge that two sounds are dissimilar using any criterion other than pitch, loudness and duratio") allow for the enjoyment of otherwise more complex music. B)
+My research found that when hearing short melodies (10s) we judge our enjoyabilty purely based on how much "musical sense" it makes to our ear. However, by the use of different timbral sounds (like switching instruements or changing how the instruements sound "texturally") it allows for the listener to enjoy otherwise more complex, dissant sounding melodies. On top of this, the leading factor for music enjoyabilty was artist recongition over the actual musical piece it self i.e., it was found partispants based song enjoyability more so on the msucial artist themselves rather than the actual music, by quite a significant margin. Lastly, it was found that someone who enjoys otherwise more complex music (e.g., jazz over pop) does so due to their neuorlogy rather than exposure.
 
 *explain model briefliy by explaining words
 
