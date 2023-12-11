@@ -18,7 +18,7 @@ My research found that when hearing short melodies (10s), we judge their enjoyab
 
 ['The Determinant Interface Model for Music Cognition – Peeling Back the Cognitive Layers of Our Everyday Music Listening'.pdf](https://github.com/warner-d-m/warner-d-m.github.io/files/13631604/The.Determinant.Interface.Model.for.Music.Cognition.Peeling.Back.the.Cognitive.Layers.of.Our.Everyday.Music.Listening.pdf)
 
-## My other project examples
+## Some of my other projects
 
 Adapting a generative adversarial network (akin to DALL·E or Midjourney) for royality sample generation for music production via 2D spectrograms generation; [Creative Computing final report.pdf](https://github.com/warner-d-m/warner-d-m.github.io/files/13631660/Creative.Computing.final.report.pdf)
 
