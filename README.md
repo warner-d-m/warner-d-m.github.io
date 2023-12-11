@@ -12,4 +12,4 @@ My research found that when hearing short melodies (10s), we judge their enjoyab
 
 ## Other projects
 
-Adapting a generative adversarial network originally for 2D image generation (akin to DALL·E or Midjourney) but for royality sample generation for music production via 2D spectrograms generation; [Creative Computing final report.pdf](https://github.com/warner-d-m/warner-d-m.github.io/files/13631660/Creative.Computing.final.report.pdf)
+Adapting a generative adversarial network (akin to DALL·E or Midjourney) for royality sample generation for music production via 2D spectrograms generation; [Creative Computing final report.pdf](https://github.com/warner-d-m/warner-d-m.github.io/files/13631660/Creative.Computing.final.report.pdf)
