@@ -4,7 +4,7 @@ My name is Matt Warner, I recently completed my Master's in Sound and Music Comp
 
 ## Master's dissertation
 
-My main Master's project consisted of develop
+My Master's project consisted of develop
 
 Talk about why you’d like to move into a career as a web developer;
 
