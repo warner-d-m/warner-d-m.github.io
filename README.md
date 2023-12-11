@@ -6,6 +6,8 @@ githublink; https://github.com/warner-d-m/warner-d-m.github.io/edit/main/README.
 
 My name is Matt Warner, I recently completed my Master's in Sound and Music Computing at Queen Mary's University of London (within the school of electrical enginnering & computer science) - achieving distinction (70%+). Previous to that I completed an MSci degree in Physics at the same university. My free time mainly consists of listening to and creating my own music in Abeleton.
 
+I currnetly take part in the Access Project, a volunteering tutoring initiative to help student from lower economic backgrounds improve their grades and work as a carer for my younger brother with special needs.
+
 ## Master's dissertation
 
 Titled 'The Determinant Interface Model for Music Cognition – Peeling Back the Cognitive Layers of Our Everyday Music Listening,' my project (where I achieved a mark of 80%) consisted of first hypothesizing my own cognitive model through reviewing the relevant literature (neurological, cognitive & behavioral studies), testing that model by using 25 self-gathered participants, and analyzing the self-collected data through code.
