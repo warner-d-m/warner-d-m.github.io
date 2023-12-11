@@ -4,7 +4,8 @@ My name is Matt Warner, I recently completed my Master's in Sound and Music Comp
 
 ## Master's dissertation
 
-My Master's project consisted of develop
+My main Master's project consisted of theorising and testing my own cognitive model - The Determinant Interface Model for Music Cognition. 
+
 
 Talk about why you’d like to move into a career as a web developer;
 
