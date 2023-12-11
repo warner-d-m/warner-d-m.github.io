@@ -6,6 +6,8 @@ githublink; https://github.com/warner-d-m/warner-d-m.github.io/edit/main/README.
 
 My name is Matt Warner, I recently completed my Master's in Sound and Music Computing at Queen Mary's University of London (within the school of electrical enginnering & computer science) - achieving distinction (70%+). Previous to that I completed an MSci degree in Physics at the same university. My free time mainly consists of listening to and creating my own music in Abeleton. I am also a member of the Access Project, a volunteering tutoring initiative.
 
+I've always enjoyed coding and using it to solve problems. Web development is, of course, a rapidly growing industry with abundant job opportunities. Pursuing a career in web development not only makes practical sense but also enables me to continue my passion for coding, leveraging it to solve problems effectively.
+
 ## Master's dissertation
 
 Titled 'The Determinant Interface Model for Music Cognition – Peeling Back the Cognitive Layers of Our Everyday Music Listening,' my project (where I achieved a mark of 80%) consisted of first hypothesizing my own cognitive model through reviewing the relevant literature (neurological, cognitive & behavioral studies), testing that model by using 25 self-gathered participants, and analyzing the self-collected data through code.
@@ -23,7 +25,3 @@ Implementing, training, and comparing two deep learning (AI) systems for audio, 
 Sampling based looper digital instrument using Bela board; [Sampling based looper digital.pdf](https://github.com/warner-d-m/warner-d-m.github.io/files/13632289/Sampling.based.looper.digital.pdf)
 
 A song detection system (like to Shazam); [Song detection system.pdf](https://github.com/warner-d-m/warner-d-m.github.io/files/13632690/Song.detection.system.pdf)
-
-## Interest in coding and web development
-
-I've always enjoyed coding and using it to solve problems. Web development is, of course, a rapidly growing industry with abundant job opportunities. Pursuing a career in web development not only makes practical sense but also enables me to continue my passion for coding, leveraging it to solve problems effectively.
